@@ -1,0 +1,7 @@
+{
+  "name": "bluetoothConnection",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
