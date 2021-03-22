@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">bluetoothConnection</string>
+    <string name="title_activity_main">bluetoothConnection</string>
+    <string name="package_name">com.poema.bluetoothConnection</string>
+    <string name="custom_url_scheme">com.poema.bluetoothConnection</string>
+</resources>
